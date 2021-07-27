@@ -51,4 +51,8 @@ Updated Math Scores by Grade|Updated Reading Scores by Grade
     - - There was no impact to the scores by school type from replacing the ninth-grade scores.
 
 ## Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+### Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+1. There are no math scores for Thomas High School ninth graders.
+2. 1. There are no reading scores for Thomas High School ninth graders.
+3. The school district saw a minimal decrease in Average Math Score, Percentage of students passing math, Percentage of students passing reading, and Percentage of students passing overall.
+4. While some of the scores and percentages saw a minimal change at Thomas High School, their standing as the 2nd top performing school in the district remained the same.
