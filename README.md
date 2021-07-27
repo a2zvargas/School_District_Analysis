@@ -6,3 +6,28 @@ There is evidence that the reading and math grades for Thomas High School ninth 
 
 The purpose of this analysis is to compare the school district's academic performance before and after the Thomas High School ninth graders math and reading scores were removed.
 
+## Results
+
+- How is the district summary affected?
+  - The district summary saw a minimal impact.  
+    - Average Math Score went down by 0.1 points
+    - Percentage of students passing math went down by 0.2%
+    - Percentage of students passing reading went down by 0.3%
+    - Percentage of students passing overall went down by 0.1%
+    
+Original District Summary
+:-------------------------: 
+![district summay before](https://user-images.githubusercontent.com/85706721/127081472-fae0774b-01e1-4d19-b2b2-8ddfb96ab8e5.png)
+    
+Updated District Summary
+:-------------------------: 
+![district summay after](https://user-images.githubusercontent.com/85706721/127081484-85b03f49-b734-4e26-840f-a6cceb382d24.png)
+
+
+- How is the school summary affected?
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- How does replacing the ninth-grade scores affect the following:
+  - Math and reading scores by grade
+  - Scores by school spending
+  - Scores by school size
+  - Scores by school type
