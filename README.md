@@ -35,6 +35,20 @@ Top Five Schools in the District
    
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
+    - The impact here is that we now dont have math and reading scores for the ninth graders at Thomas High School.
+    
+Updated Math Scores by Grade|Updated Reading Scores by Grade
+:-------------------------:|:-------------------------:
+![math scores](https://user-images.githubusercontent.com/85706721/127084965-ec00a1fd-4792-4478-b9d2-631630d3a367.png)|![reading scores](https://user-images.githubusercontent.com/85706721/127084979-031e9a1b-a5a1-442f-9776-47bbce68a9e9.png)
+
   - Scores by school spending
+    - There was no impact to the scores by school spending from replacing the ninth-grade scores.
+   
   - Scores by school size
+    - There was no impact to the scores by school size from replacing the ninth-grade scores.
+  
   - Scores by school type
+    - - There was no impact to the scores by school type from replacing the ninth-grade scores.
+
+## Summary: 
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
