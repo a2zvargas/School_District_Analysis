@@ -4,7 +4,7 @@
 
 There is evidence that the reading and math grades for Thomas High School ninth graders have been altered.  The extent of this grade altering is not known, so the math and reading scores for Thomas High School ninth graders will be removed, and the school district analysis will be performed again with the updated data.
 
-The purpose of this analysis is to compare the school district's academic performance before and after the Thomas High School ninth graders math and reading scores were removed.
+The purpose of this analysis is to compare the school district's academic performance before and after the Thomas High School ninth grader's math and reading scores were removed.
 
 ## Results
 
@@ -24,7 +24,7 @@ Updated District Summary
 ![district summay after](https://user-images.githubusercontent.com/85706721/127081484-85b03f49-b734-4e26-840f-a6cceb382d24.png)
 
 - How is the school summary affected?
-  - Only the Thomas High School was affected in the per school summary.
+  - Only Thomas High School was affected in the per school summary.
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - Thomas High School’s performance relative to the other schools was not affected.  They are still the 2nd highest performing school in the district behind Cabrera High School.
@@ -35,7 +35,7 @@ Top Five Schools in the District
    
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
-    - The impact here is that we now dont have math and reading scores for the ninth graders at Thomas High School.
+    - The impact here is that we now don't have math and reading scores for the ninth graders at Thomas High School.
     
 Updated Math Scores by Grade|Updated Reading Scores by Grade
 :-------------------------:|:-------------------------:
