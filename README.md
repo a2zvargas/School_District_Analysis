@@ -24,7 +24,7 @@ Updated District Summary
 ![district summay after](https://user-images.githubusercontent.com/85706721/127081484-85b03f49-b734-4e26-840f-a6cceb382d24.png)
 
 - How is the school summary affected?
-  - The Per School Summary was largely unaffected since the updated math and reading scores were only for Thomas High School ninth graders.
+  - Only the Thomas High School was affected in the per school summary.
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - Thomas High School’s performance relative to the other schools was not affected.  They are still the 2nd highest performing school in the district behind Cabrera High School.
